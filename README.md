@@ -23,8 +23,8 @@ This project was developed with the following technologies:
 #### 1. Clone the repository
 
 ```sh
-$ git clone https://github.com/ercioalendre/escola-projeto.git
-$ cd escola-projeto
+$ git clone https://github.com/ercioalendre/escola-projeto-backend.git
+$ cd escola-projeto-backend
 ```
 
 #### 2. Install necessary dependencies
